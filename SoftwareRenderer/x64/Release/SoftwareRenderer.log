@@ -1,0 +1,20 @@
+﻿  camera.cpp
+  color.cpp
+  display.cpp
+  edge.cpp
+  light.cpp
+  main.cpp
+  matrix.cpp
+  mesh.cpp
+  renderContext.cpp
+  scene.cpp
+  utility.cpp
+  vector.cpp
+  vertex.cpp
+  workerThread.cpp
+  Generating code
+c:\users\leon\documents\visual studio 2015\projects\softwarerenderer\softwarerenderer\vertex.cpp(42): warning C4715: 'Vertex::getPosition': not all control paths return a value
+c:\users\leon\documents\visual studio 2015\projects\softwarerenderer\softwarerenderer\utility.cpp(56): warning C4715: 'util::get_pixel': not all control paths return a value
+  All 726 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SoftwareRenderer.vcxproj -> C:\Users\Leon\documents\visual studio 2015\Projects\SoftwareRenderer\x64\Release\SoftwareRenderer.exe

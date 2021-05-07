@@ -1,0 +1,17 @@
+﻿  Vertex.cpp
+  Vector.cpp
+  Util.cpp
+  Scene.cpp
+  RenderContext.cpp
+  Light.cpp
+  Mesh.cpp
+  Matrix.cpp
+  Main.cpp
+  Gradients.cpp
+  Edge.cpp
+  Display.cpp
+  CpuInfo.cpp
+  Color.cpp
+  Camera.cpp
+  Generating Code...
+  SoftwareRenderer.vcxproj -> C:\Users\Leon\documents\visual studio 2015\Projects\SoftwareRenderer\x64\Debug\SoftwareRenderer.exe
